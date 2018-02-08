@@ -1,0 +1,17 @@
+Michael Trinh
+
+3) O(n+n) -> O(2n+101) -> O(n) 
+	bucket sort is impractical as a general sorting algorithm because the algorithm takes up a lot of memory and time because
+	of the huge amount of buckets and the long range of values it needs and uses in the algorithm.
+
+4)
+Sort algorithm | Array Length | Pass 1 | Pass 2 | Pass 3 | Average |
+Selection      |      8       |   46   |   51   |   49   | 48.666  |
+Selection      |      32      |   619  |   623  |   635  | 625.666 |
+Selection      |      128     |   8760 |   8806 |   8793 | 8786.333| 
+Merge          |      8       |   70   |   71   |   72   | 71      |
+Merge          |      32      |   473  |   470  |   471  | 471.333 |
+Merge          |      128     |   2654 |   2650 |   2646 | 2650    |
+Bucket         |      8       |   117  |   117  |   117  | 117     |
+Bucket         |      32      |   165  |   165  |   165  | 165     |
+Bucket         |      128     |   357  |   357  |   357  | 357     |

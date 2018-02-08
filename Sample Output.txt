@@ -1,0 +1,21 @@
+Enter word (<50 characters) to check if it's a palindrome (type q to quit): arawerwafdf
+arawerwafdf is not a palindrome.
+Enter word (<50 characters) to check if it's a palindrome (type q to quit): racecar
+racecar is a palindrome.
+Enter word (<50 characters) to check if it's a palindrome (type q to quit): hhdyh
+hhdyh is not a palindrome.
+Enter word (<50 characters) to check if it's a palindrome (type q to quit): lol
+lol is a palindrome.
+Enter word (<50 characters) to check if it's a palindrome (type q to quit): lol
+lol is a palindrome.
+Enter word (<50 characters) to check if it's a palindrome (type q to quit): racecar
+racecar is a palindrome.
+Enter word (<50 characters) to check if it's a palindrome (type q to quit): arwaefr
+arwaefr is not a palindrome.
+Enter word (<50 characters) to check if it's a palindrome (type q to quit): e
+e is a palindrome.
+Enter word (<50 characters) to check if it's a palindrome (type q to quit): raraard
+raraard is not a palindrome.
+Enter word (<50 characters) to check if it's a palindrome (type q to quit): s
+s is a palindrome.
+Enter word (<50 characters) to check if it's a palindrome (type q to quit): q
