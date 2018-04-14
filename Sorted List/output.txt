@@ -1,0 +1,125 @@
+High Scores:
+
+999
+888
+777
+666
+555
+111
+
+
+Type your score (Type -1 to quit)
+Enter score:
+313
+High Scores:
+
+999
+888
+777
+666
+555
+313
+111
+
+
+Enter score:
+513
+High Scores:
+
+999
+888
+777
+666
+555
+513
+313
+111
+
+
+Enter score:
+10
+High Scores:
+
+999
+888
+777
+666
+555
+513
+313
+111
+10
+
+
+Enter score:
+890
+High Scores:
+
+999
+890
+888
+777
+666
+555
+513
+313
+111
+10
+
+
+Enter score:
+532
+High Scores:
+
+999
+890
+888
+777
+666
+555
+532
+513
+313
+111
+10
+
+
+Enter score:
+444
+High Scores:
+
+999
+890
+888
+777
+666
+555
+532
+513
+444
+313
+111
+10
+
+
+Enter score:
+0
+High Scores:
+
+999
+890
+888
+777
+666
+555
+532
+513
+444
+313
+111
+10
+0
+
+
+Enter score:
+-1

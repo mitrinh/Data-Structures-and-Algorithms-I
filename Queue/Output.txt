@@ -1,0 +1,8 @@
+Queue: 9 Mary 5 Bob 1 Max
+9 Mary will now see the doctor.
+Queue: 7 Stacy 6 Jennifer 5 Chang 5 Bob 4 Paul 3 Julio 2 Reiko 1 Max
+7 Stacy will now see the doctor.
+Queue: 6 Jennifer 5 Chang 5 Bob 4 Paul 3 Julio 2 Reiko 1 Max
+6 Jennifer will now see the doctor.
+Queue: 5 Chang 5 Bob 4 Paul 3 Julio 2 Reiko 1 Max
+5 Chang will now see the doctor.

@@ -1,0 +1,48 @@
+Tree 1 Inorder:
+Displaying item - 20
+Displaying item - 30
+Displaying item - 10
+Displaying item - 40
+Tree 1 height: 3
+Tree 1 number of nodes: 4
+
+Tree 2 Inorder:
+Displaying item - 20
+Displaying item - 30
+Displaying item - 10
+Displaying item - 40
+Tree 2 height: 3
+Tree 2 number of nodes: 4
+[mtrinh5@hills BinaryNodeTree]$ ./a.out
+Tree 1 Inorder:
+Displaying item - 40
+Displaying item - 10
+Displaying item - 20
+Displaying item - 30
+Tree 1 height: 3
+Tree 1 number of nodes: 4
+
+Tree 2 Inorder:
+Displaying item - 10
+Displaying item - 40
+Displaying item - 20
+Displaying item - 30
+Tree 2 height: 3
+Tree 2 number of nodes: 4
+[mtrinh5@hills BinaryNodeTree]$ ./a.out
+Tree 1 Inorder:
+Displaying item - 20
+Displaying item - 10
+Displaying item - 40
+Displaying item - 30
+Tree 1 height: 3
+Tree 1 number of nodes: 4
+
+Tree 2 Inorder:
+Displaying item - 20
+Displaying item - 30
+Displaying item - 40
+Displaying item - 10
+Tree 2 height: 4
+Tree 2 number of nodes: 4
+[mtrinh5@hills BinaryNodeTree]$

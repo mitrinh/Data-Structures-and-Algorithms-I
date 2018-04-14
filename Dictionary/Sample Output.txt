@@ -1,0 +1,20 @@
+
+dictionary:
+name: Dan | birthday: 04/23
+name: Harry | birthday: 01,15
+name: John | birthday: 08/12
+name: Sally | birthday: 08,13
+name: Tom | birthday: 11,15
+
+These people's birthdays are in month 08 : John Sally
+Sally's birthday: 08,13
+
+dictionary:
+name: Dan | birthday: 04/23
+name: Harry | birthday: 01,15
+name: John | birthday: 08/12
+name: Tom | birthday: 11,15
+
+These people's birthdays are in month 08 : John
+These people's birthdays are in month 11 : Tom
+Dan's birthday: 04/23

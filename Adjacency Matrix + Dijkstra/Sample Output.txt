@@ -1,0 +1,14 @@
+Adjacency Matrix:
+x\y     0       1       2       3       4       5
+0       0       120     150     9999    9999    500
+1       120     0       9999    75      9999    350
+2       150     9999    0       9999    250     9999
+3       9999    75      9999    0       150     9999
+4       9999    9999    250     150     0       9999
+5       500     350     9999    9999    9999    0
+Cheapest cost from San Francisco to 0 is 0.
+Cheapest cost from San Francisco to 1 is 120.
+Cheapest cost from San Francisco to 2 is 150.
+Cheapest cost from San Francisco to 3 is 195.
+Cheapest cost from San Francisco to 4 is 345.
+Cheapest cost from San Francisco to 5 is 470.
